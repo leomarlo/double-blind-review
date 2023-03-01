@@ -1,0 +1,10 @@
+{
+  "name": "double-blind-building-block",
+  "version": "0.0.1",
+  "description": "\"A simple double blind review system\"",
+  "main": "index.js",
+  "repository": "https://github.com/leomarlo/double-blind-review",
+  "author": "Leonhard Horstmeyer <leo.h@hotmail.de>",
+  "license": "GPL 3.0",
+  "private": false
+}
